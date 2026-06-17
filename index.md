@@ -4,7 +4,7 @@ title: "Pablo Cabriada Sierra"
 ---
 
 <div class="hero">
-  <div class="profile-placeholder">PC</div>
+  <img src="{{ '/assets/images/1778226197530.png' | relative_url }}" alt="Pablo Cabriada Sierra" class="profile-img">
   <div class="hero-text">
     <h1>Pablo Cabriada Sierra</h1>
     <p class="tagline">ML Engineer &middot; Physicist &middot; Data Scientist</p>
