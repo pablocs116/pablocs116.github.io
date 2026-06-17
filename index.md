@@ -42,6 +42,22 @@ title: "Pablo Cabriada Sierra"
   </ul>
 </section>
 
+<section id="experience">
+  <h2>Experience</h2>
+  <div class="entry">
+    <h3>ML Engineer &mdash; Multiverse Computing</h3>
+    <p class="meta">2026 &ndash; Present</p>
+  </div>
+  <div class="entry">
+    <h3>AI Researcher &mdash; INMA</h3>
+    <p class="meta">2025 &ndash; 2026</p>
+  </div>
+  <div class="entry">
+    <h3>Data Scientist &mdash; Kampal Data Solutions</h3>
+    <p class="meta">2023 &ndash; 2025</p>
+  </div>
+</section>
+
 <section id="projects">
   <h2>Projects</h2>
 
