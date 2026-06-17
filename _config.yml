@@ -1,0 +1,27 @@
+url: "https://pablocs116.github.io"
+baseurl: ""
+title: "Pablo Cabriada Sierra"
+description: "Physicist & Data Scientist"
+theme: minima
+
+author:
+  name: "Pablo Cabriada Sierra"
+  email: ""
+
+sass:
+  style: compressed
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
