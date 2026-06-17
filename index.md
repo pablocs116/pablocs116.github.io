@@ -38,14 +38,14 @@ title: "Pablo Cabriada Sierra"
 <section id="education">
   <h2>Education</h2>
   <div class="entry with-icon">
-    <div class="entry-icon">🎓</div>
+    <img src="{{ '/assets/images/uoc_logo.jpeg' | relative_url }}" alt="UOC" class="entry-logo">
     <div>
       <h3>MSc Data Science &mdash; UOC</h3>
       <p class="meta">2023 &ndash; 2025</p>
     </div>
   </div>
   <div class="entry with-icon">
-    <div class="entry-icon">🎓</div>
+    <img src="{{ '/assets/images/universidad_de_zaragoza_logo.jpeg' | relative_url }}" alt="UNIZAR" class="entry-logo">
     <div>
       <h3>BSc Physics &mdash; UNIZAR</h3>
       <p class="meta">2019 &ndash; 2023</p>
@@ -68,21 +68,21 @@ title: "Pablo Cabriada Sierra"
 <section id="experience">
   <h2>Experience</h2>
   <div class="entry with-icon">
-    <div class="entry-icon">⚡</div>
+    <img src="{{ '/assets/images/multiversecomputing_logo.jpeg' | relative_url }}" alt="Multiverse Computing" class="entry-logo">
     <div>
       <h3>ML Engineer &mdash; Multiverse Computing</h3>
       <p class="meta">2026 &ndash; Present</p>
     </div>
   </div>
   <div class="entry with-icon">
-    <div class="entry-icon">🧠</div>
+    <img src="{{ '/assets/images/inma.jpeg' | relative_url }}" alt="INMA" class="entry-logo">
     <div>
       <h3>AI Researcher &mdash; INMA</h3>
       <p class="meta">2025 &ndash; 2026</p>
     </div>
   </div>
   <div class="entry with-icon">
-    <div class="entry-icon">📊</div>
+    <img src="{{ '/assets/images/kampal.jpeg' | relative_url }}" alt="Kampal Data Solutions" class="entry-logo">
     <div>
       <h3>Data Scientist &mdash; Kampal Data Solutions</h3>
       <p class="meta">2023 &ndash; 2025</p>
