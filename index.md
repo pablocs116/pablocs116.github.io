@@ -21,12 +21,12 @@ title: "Pablo Cabriada Sierra"
 <section id="education">
   <h2>Education</h2>
   <div class="entry">
-    <h3>MSc Data Science</h3>
-    <p class="meta">2024 &ndash; 2026</p>
+    <h3>MSc Data Science &mdash; UOC</h3>
+    <p class="meta">2023 &ndash; 2025</p>
   </div>
   <div class="entry">
-    <h3>BSc Physics</h3>
-    <p class="meta">2018 &ndash; 2024</p>
+    <h3>BSc Physics &mdash; UNIZAR</h3>
+    <p class="meta">2019 &ndash; 2023</p>
   </div>
 </section>
 
@@ -34,12 +34,12 @@ title: "Pablo Cabriada Sierra"
   <h2>Publications</h2>
   <ul class="publications">
     <li>
-      <span class="pub-title">Publication Title</span><br>
-      <span class="pub-authors">Authors</span><br>
-      <span class="pub-venue">Venue, Year</span>
+      <span class="pub-title">3SA: an entity-linking algorithm for the Institution Name Disambiguation problem in affiliations using edit distance</span><br>
+      <span class="pub-authors">David Muñoz-Jordán, Gonzalo Ruiz, <strong>Pablo Cabriada</strong>, Juan Luis Durán, David Iñiguez, Alejandro Rivero</span><br>
+      <span class="pub-venue">Scientometrics, Volume 130, pages 4073&ndash;4091, 2025</span> &middot;
+      <a href="https://doi.org/10.1007/s11192-025-05368-1">Paper</a>
     </li>
   </ul>
-  <p class="note"><em>Replace with your actual publications.</em></p>
 </section>
 
 <section id="projects">
@@ -72,5 +72,6 @@ title: "Pablo Cabriada Sierra"
   <h2>Contact</h2>
   <ul class="contact-links">
     <li><a href="https://github.com/pablocs116">GitHub</a></li>
+    <li><a href="https://www.linkedin.com/in/pablo-cabriada-sierra/">LinkedIn</a></li>
   </ul>
 </section>
