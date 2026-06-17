@@ -42,6 +42,7 @@ title: "Pablo Cabriada Sierra"
     <div>
       <h3>MSc Data Science &mdash; UOC</h3>
       <p class="meta">2023 &ndash; 2025</p>
+      <p class="thesis">Thesis: <em>State of the Art of Tools and Techniques for NLP</em></p>
     </div>
   </div>
   <div class="entry with-icon">
@@ -49,6 +50,7 @@ title: "Pablo Cabriada Sierra"
     <div>
       <h3>BSc Physics &mdash; UNIZAR</h3>
       <p class="meta">2019 &ndash; 2023</p>
+      <p class="thesis">Thesis: <em>Materials for Sustainable Refrigeration Using Electrocaloric Effect</em></p>
     </div>
   </div>
 </section>

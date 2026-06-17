@@ -138,6 +138,8 @@ h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.15rem; }
 
 .meta { color: var(--text-muted); font-size: 0.9rem; }
 
+.thesis { color: var(--text-muted); font-size: 0.85rem; margin-top: 0.15rem; }
+
 .entry { margin-bottom: 1.25rem; }
 
 .entry.with-icon {
