@@ -60,11 +60,7 @@ title: "Pablo Cabriada Sierra"
   <div class="project-card">
     <h3>River Plastic Ranking</h3>
     <p>Data science project ranking global rivers by plastic emission. Feature engineering, model training, and reproducible analysis pipeline.</p>
-  </div>
-
-  <div class="project-card">
-    <h3>TurboQuant PyTorch</h3>
-    <p>PyTorch implementation of vector quantization methods for model compression and efficient inference.</p>
+    <a href="https://github.com/pablocs116/river-plastic-ranking">GitHub</a>
   </div>
 </section>
 
