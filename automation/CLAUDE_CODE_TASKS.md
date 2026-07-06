@@ -10,7 +10,7 @@ Generado: 2026-07-06
 - [ ] NOTA sobre el punto anterior: la sección "Open Source Contributions" no existe todavía en el sitio — esta es la primera vez que se crea, pre-aprobado por Pablo. Replicar el estilo terminal/interpretability del resto del sitio (ver sección "SELECTED WORK" como referencia de estilo y estructura de tarjetas).
 
 ## Necesita confirmación de Pablo antes de aplicar
-- Repo `TensorTonic-Solutions` ("My solutions to TensorTonic problems"): parece un repo de soluciones a problemas/ejercicios de una plataforma de práctica de ML desde cero (similar en espíritu a coursework/desechable, aunque no lleva nombre tipo PRAC/PEC/HW). Link: https://github.com/pablocs116/TensorTonic-Solutions. Pregúntale directamente a Pablo si quiere mostrar este repo en el sitio antes de tocarlo.
+(Ninguno pendiente por ahora. `TensorTonic-Solutions` fue rechazado por Pablo — no mostrar en el sitio, no volver a proponerlo.)
 
 ## Al terminar
 Actualiza `automation/state.json` marcando "applied" lo que se haya aplicado en el sitio.
