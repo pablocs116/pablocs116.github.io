@@ -1,21 +1,21 @@
 {
     "known_repos": {
-          "pablocs116/Pilot_Experiments_Neuronpedia": {
-                  "status": "applied",
-                  "last_pushed_at": "2026-07-06T11:59:58Z"
-          },
-          "pablocs116/TensorTonic-Solutions": {
-                  "status": "rejected",
-                  "last_pushed_at": "2026-07-06T11:59:58Z"
-          }
+        "pablocs116/Pilot_Experiments_Neuronpedia": {
+            "status": "applied",
+            "last_pushed_at": "2026-07-06T11:59:58Z"
+        },
+        "pablocs116/TensorTonic-Solutions": {
+            "status": "rejected",
+            "last_pushed_at": "2026-07-06T11:59:58Z"
+        }
     },
     "known_contributions": {
-          "https://github.com/TransformerLensOrg/TransformerLens/pull/1478": {
-                  "status": "applied",
-              "https://github.com/TransformerLensOrg/TransformerLens/pull/1483": {
-                  "status": "queued"
-              }
-          }
+        "https://github.com/TransformerLensOrg/TransformerLens/pull/1478": {
+            "status": "applied"
+        },
+        "https://github.com/TransformerLensOrg/TransformerLens/pull/1483": {
+            "status": "applied"
+        }
     },
-        "last_run": "2026-07-07T11:02:27Z"
+    "last_run": "2026-07-07T12:11:03Z"
 }
