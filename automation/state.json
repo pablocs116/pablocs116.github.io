@@ -11,8 +11,11 @@
     },
     "known_contributions": {
           "https://github.com/TransformerLensOrg/TransformerLens/pull/1478": {
-                  "status": "applied"
+                  "status": "applied",
+              "https://github.com/TransformerLensOrg/TransformerLens/pull/1483": {
+                  "status": "queued"
+              }
           }
     },
-    "last_run": "2026-07-06T11:59:58Z"
+        "last_run": "2026-07-07T11:02:27Z"
 }
