@@ -4,6 +4,8 @@ Generado: 2026-11-13
 ## Contexto
 `index.html` es un bundle empaquetado (ver <script type="__bundler/manifest"> y <script type="__bundler/template">). Antes de tocar nada, revisa los commits ee203db y 9712887 (agrupación de "Open Source Contributions" por repo) y el commit "Add SAELens #785 to Open Source Contributions" del 2026-11-12 como ejemplo de cómo se añadió una entrada anteriormente. Prueba localmente (abre index.html o corre Jekyll) antes de hacer push.
 
+Antes de añadir contribuciones, lee `automation/CONTRIBUTIONS_LAYOUT.md`: define cuándo el diseño de "Open Source Contributions" deja de escalar (umbrales) y cómo proponer el nuevo. Al regenerar este archivo, conserva esta línea.
+
 ## Aplicar directo (Pablo lo aprobó el 2026-11-13)
 TODO 1. En la sección "Open Source Contributions", dentro del grupo SAELens (decoderesearch/SAELens), añadir una fila junto a #784 y #785 (estas dos YA están en el sitio, no duplicarlas): #789 "fix: load old TransformerLens-format models with TransformerBridge" (compatibilidad al cargar modelos en el formato antiguo de TransformerLens con TransformerBridge). Link: https://github.com/decoderesearch/SAELens/pull/789. NUEVA. Mantener el formato de las filas existentes y el ajuste móvil de nombres largos.
 
