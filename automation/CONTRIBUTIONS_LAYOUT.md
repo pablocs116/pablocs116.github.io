@@ -4,7 +4,7 @@ Documento permanente (no se regenera como CLAUDE_CODE_TASKS.md). La tarea autom�
 
 ## Estado actual (2026-11-13)
 Diseño v1: un grupo por repo (`contributionGroups` en el template de `index.html`) con cabecera `owner/name`, contador ("N merged PRs"), una línea de resumen del repo y todas las PRs listadas debajo, de la más reciente a la más antigua. Sin colapsar nada.
-Inventario: 2 repos, 6 PRs (TransformerLens 3, SAELens 3).
+Inventario (2026-11-18): 2 repos, 8 PRs (TransformerLens 5, SAELens 3), más 2 menores mostradas como contador en la cabecera (TransformerLens +1 test fix, SAELens +1 test config).
 
 ## Paso 0 — ¿Contribución mayor o menor?
 Las filas de la sección sirven para que quien lea vea, en una frase, **qué aportó Pablo a la librería**. Antes de añadir una PR mergeada, clasifícala con esta pregunta:
